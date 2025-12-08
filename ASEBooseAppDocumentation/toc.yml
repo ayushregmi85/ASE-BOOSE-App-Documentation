@@ -1,0 +1,20 @@
+### YamlMime:TableOfContent
+items:
+- uid: BOOSEApp
+  name: BOOSEApp
+  type: Namespace
+  items:
+  - uid: BOOSEApp.CanvasApp
+    name: CanvasApp
+    type: Class
+  - uid: BOOSEApp.Form1
+    name: Form1
+    type: Class
+- uid: BOOSEAppTests
+  name: BOOSEAppTests
+  type: Namespace
+  items:
+  - uid: BOOSEAppTests.CanvasAppTests
+    name: CanvasAppTests
+    type: Class
+memberLayout: SamePage
