@@ -1,127 +1,171 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-      <title>ASE BOOSE App - Component 1 Documentation | ASEBooseAppDocumentation </title>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content="ASE BOOSE App - Component 1 Documentation | ASEBooseAppDocumentation ">
-      
-      
-      <link rel="icon" href="favicon.ico">
-      <link rel="stylesheet" href="public/docfx.min.css">
-      <link rel="stylesheet" href="public/main.css">
-      <meta name="docfx:navrel" content="">
-      <meta name="docfx:tocrel" content="">
-      
-      <meta name="docfx:rel" content="">
-      
-      
-      <meta name="docfx:docurl" content="https://github.com/ASE2025repos/ase-boose-assignment-ayushregmi85/blob/main/index.md/#L1">
-      <meta name="loc:inThisArticle" content="In this article">
-      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
-      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
-      <meta name="loc:tocFilter" content="Filter by title">
-      <meta name="loc:nextArticle" content="Next">
-      <meta name="loc:prevArticle" content="Previous">
-      <meta name="loc:themeLight" content="Light">
-      <meta name="loc:themeDark" content="Dark">
-      <meta name="loc:themeAuto" content="Auto">
-      <meta name="loc:changeTheme" content="Change theme">
-      <meta name="loc:copy" content="Copy">
-      <meta name="loc:downloadPdf" content="Download PDF">
+    <title>ASE BOOSE App - Component 1 Documentation | ASEBooseAppDocumentation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="ASE BOOSE App - Component 1 Documentation">
 
-      <script type="module" src="./public/docfx.min.js"></script>
+    <link rel="icon" href="favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="public/docfx.min.css">
+    <link rel="stylesheet" href="public/main.css">
 
-      <script>
-        const theme = localStorage.getItem('theme') || 'auto'
-        document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
-      </script>
+    <!-- These make DocFX navigation work if you ever want to switch back to full dynamic TOC -->
+    <meta name="docfx:navrel" content="toc.html">
+    <meta name="docfx:tocrel" content="toc.html">
+    <meta name="docfx:rel" content="">
 
+    <script type="module" src="./public/docfx.min.js"></script>
+    <script>
+      const theme = localStorage.getItem('theme') || 'auto';
+      document.documentElement.setAttribute('data-bs-theme',
+        theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme
+      );
+    </script>
   </head>
 
   <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
     <header class="bg-body border-bottom">
-      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+      <nav class="navbar navbar-expand-md" role="navigation">
         <div class="container-xxl flex-nowrap">
           <a class="navbar-brand" href="index.html">
             <img id="logo" class="svg" src="logo.svg" alt="ASEBooseAppDocumentation">
             ASEBooseAppDocumentation
           </a>
-          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false">
             <i class="bi bi-three-dots"></i>
           </button>
           <div class="collapse navbar-collapse" id="navpanel">
-            <div id="navbar">
-              <form class="search" role="search" id="search">
-                <i class="bi bi-search"></i>
-                <input class="form-control" id="search-query" type="search" disabled placeholder="Search" autocomplete="off" aria-label="Search">
-              </form>
-            </div>
+            <form class="search ms-auto" role="search" id="search">
+              <i class="bi bi-search"></i>
+              <input class="form-control" id="search-query" type="search" placeholder="Search" autocomplete="off">
+            </form>
           </div>
         </div>
       </nav>
     </header>
 
     <main class="container-xxl">
+      <div class="row">
+        <!-- Sidebar -->
+        <div class="col-md-3 d-none d-md-block position-sticky" style="top: 2rem; max-height: calc(100vh - 4rem); overflow-y: auto;">
+          <nav id="affix" class="affix">
+            <h5 class="fw-bold mb-3">Navigation</h5>
+            <ul class="nav flex-column">
+              <li class="nav-item"><a class="nav-link active" href="index.html">Home / Overview</a></li>
+            </ul>
 
-      <div class="content">
-        <div class="actionbar">
+            <h6 class="fw-bold mt-4">API Documentation</h6>
+            <ul class="nav flex-column">
+              <li class="nav-item"><a class="nav-link" href="ASEBooseAppDocumentation/BOOSEApp.html">BOOSEApp Namespace</a></li>
+              <li class="nav-item"><a class="nav-link" href="ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html">CanvasApp Class</a></li>
+              <li class="nav-item"><a class="nav-link" href="ASEBooseAppDocumentation/BOOSEApp.Form1.html">Form1 Class</a></li>
+            </ul>
 
-          <nav id="breadcrumb"></nav>
+            <h6 class="fw-bold mt-4">Tests</h6>
+            <ul class="nav flex-column">
+              <li class="nav-item"><a class="nav-link" href="ASEBooseAppDocumentation/BOOSEAppTests.html">BOOSEAppTests Namespace</a></li>
+              <li class="nav-item"><a class="nav-link" href="ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html">CanvasAppTests Class</a></li>
+            </ul>
+
+            <h6 class="fw-bold mt-4">Full Table of Contents</h6>
+            <ul class="nav flex-column">
+              <li class="nav-item"><a class="nav-link" href="ASEBooseAppDocumentation/toc.html">All Pages (toc.html)</a></li>
+            </ul>
+          </nav>
         </div>
 
-        <article data-uid="">
-<h1 id="ase-boose-app---component-1-documentation">ASE BOOSE App - Component 1 Documentation</h1>
+        <!-- Main content -->
+        <div class="col-md-9">
+          <div class="content">
+            <article data-uid="">
+              <h1 id="ase-boose-app---component-1-documentation">ASE BOOSE App - Component 1 Documentation</h1>
+              <p>Welcome to the BOOSE (Basic Object Orientated Software Engineering) Interpreter documentation.</p>
 
-<p>Welcome to the BOOSE (Basic Object Orientated Software Engineering) Interpreter documentation.</p>
-<h2 id="project-overview">Project Overview</h2>
-<p>This project implements a BOOSE interpreter with a graphical user interface for parsing and executing BOOSE programs.</p>
-<h2 id="student-information">Student Information</h2>
-<ul>
-<li><strong>Name</strong>: Ayush Regmi</li>
-<li><strong>Student ID</strong>: 77466865</li>
-<li><strong>Module</strong>: Advanced Software Engineering</li>
-<li><strong>Institution</strong>: The British College Kathmandu / Leeds Beckett University</li>
-</ul>
-<h2 id="components-documented">Components Documented</h2>
-<h3 id="canvasapp">CanvasApp</h3>
-<p>The main canvas implementation that handles all drawing operations.</p>
-<h3 id="form1">Form1</h3>
-<p>The main application form providing the user interface.</p>
-<h3 id="unit-tests">Unit Tests</h3>
-<p>Comprehensive unit tests for MoveTo, DrawTo, and multiline programs.</p>
-<h2 id="features">Features</h2>
-<ul>
-<li>Drawing operations (MoveTo, DrawTo, Circle, Rectangle)</li>
-<li>Color management</li>
-<li>Exception handling</li>
-<li>Position tracking</li>
-</ul>
-<p>See the API documentation for detailed class and method information.</p>
+              <h2 id="project-overview">Project Overview</h2>
+              <p>This project implements a BOOSE interpreter with a graphical user interface for parsing and executing BOOSE programs.</p>
 
-</article>
+              <h2 id="student-information">Student Information</h2>
+              <ul>
+                <li><strong>Name</strong>: Ayush Regmi</li>
+                <li><strong>Student ID</strong>: 77466865</li>
+                <li><strong>Module</strong>: Advanced Software Engineering</li>
+                <li><strong>Institution</strong>: The British College Kathmandu / Leeds Beckett University</li>
+              </ul>
 
-        <div class="contribution d-print-none">
-          <a href="https://github.com/ASE2025repos/ase-boose-assignment-ayushregmi85/blob/main/index.md/#L1" class="edit-link">Edit this page</a>
+              <h2 id="quick-links">Quick Links</h2>
+              <div class="row g-4 mb-4">
+                <div class="col-md-6">
+                  <div class="card h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">CanvasApp Class</h5>
+                      <p class="card-text">Main drawing canvas implementation.</p>
+                      <a href="ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html" class="btn btn-primary">View CanvasApp API</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="card h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Form1 Class</h5>
+                      <p class="card-text">Main Windows Forms UI.</p>
+                      <a href="ASEBooseAppDocumentation/BOOSEApp.Form1.html" class="btn btn-primary">View Form1 API</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="card h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">CanvasAppTests</h5>
+                      <p class="card-text">Unit tests for drawing commands.</p>
+                      <a href="ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html" class="btn btn-primary">View Tests</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="card h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Full TOC</h5>
+                      <p class="card-text">Browse every generated page.</p>
+                      <a href="ASEBooseAppDocumentation/toc.html" class="btn btn-primary">Open Table of Contents</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <h2 id="features">Features</h2>
+              <ul>
+                <li>Drawing operations (MoveTo, DrawTo, Circle, Rectangle, Triangle)</li>
+                <li>Color management (red, green, blue, etc.)</li>
+                <li>Variable support and loops</li>
+                <li>Exception handling & position tracking</li>
+                <li>Comprehensive unit tests</li>
+              </ul>
+
+              <p class="alert alert-success mt-4">
+                <strong>All API documentation is now accessible!</strong><br>
+                Use the sidebar on the left (or the cards above on mobile) to navigate to any class or test page.
+              </p>
+            </article>
+
+            <div class="contribution d-print-none mt-5">
+              <a href="https://github.com/ASE2025repos/ase-boose-assignment-ayushregmi85/blob/main/index.md" class="edit-link">
+                Edit this page on GitHub
+              </a>
+            </div>
+          </div>
         </div>
-
-        <div class="next-article d-print-none border-top" id="nextArticle"></div>
-
-      </div>
-
-      <div class="affix">
-        <nav id="affix"></nav>
       </div>
     </main>
 
-    <div class="container-xxl search-results" id="search-results"></div>
-
-    <footer class="border-top text-secondary">
-      <div class="container-xxl">
-        <div class="flex-fill">
-          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
-        </div>
+    <footer class="border-top text-secondary py-4 mt-5">
+      <div class="container-xxl text-center">
+        Made with <a href="https://dotnet.github.io/docfx">DocFX</a> • Hosted on GitHub Pages
       </div>
     </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
