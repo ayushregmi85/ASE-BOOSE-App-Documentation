@@ -1,0 +1,332 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BOOSEApp
+  name: BOOSEApp
+  href: ASEBooseAppDocumentation/BOOSEApp.html
+  commentId: N:BOOSEApp
+  fullName: BOOSEApp
+  nameWithType: BOOSEApp
+- uid: BOOSEApp.CanvasApp
+  name: CanvasApp
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html
+  commentId: T:BOOSEApp.CanvasApp
+  fullName: BOOSEApp.CanvasApp
+  nameWithType: CanvasApp
+- uid: BOOSEApp.CanvasApp.#ctor
+  name: CanvasApp()
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp__ctor
+  commentId: M:BOOSEApp.CanvasApp.#ctor
+  name.vb: New()
+  fullName: BOOSEApp.CanvasApp.CanvasApp()
+  fullName.vb: BOOSEApp.CanvasApp.New()
+  nameWithType: CanvasApp.CanvasApp()
+  nameWithType.vb: CanvasApp.New()
+- uid: BOOSEApp.CanvasApp.#ctor*
+  name: CanvasApp
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp__ctor_
+  commentId: Overload:BOOSEApp.CanvasApp.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSEApp.CanvasApp.CanvasApp
+  fullName.vb: BOOSEApp.CanvasApp.New
+  nameWithType: CanvasApp.CanvasApp
+  nameWithType.vb: CanvasApp.New
+- uid: BOOSEApp.CanvasApp.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Circle_System_Int32_System_Boolean_
+  commentId: M:BOOSEApp.CanvasApp.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: BOOSEApp.CanvasApp.Circle(int, bool)
+  fullName.vb: BOOSEApp.CanvasApp.Circle(Integer, Boolean)
+  nameWithType: CanvasApp.Circle(int, bool)
+  nameWithType.vb: CanvasApp.Circle(Integer, Boolean)
+- uid: BOOSEApp.CanvasApp.Circle*
+  name: Circle
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Circle_
+  commentId: Overload:BOOSEApp.CanvasApp.Circle
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.Circle
+  nameWithType: CanvasApp.Circle
+- uid: BOOSEApp.CanvasApp.Clear
+  name: Clear()
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Clear
+  commentId: M:BOOSEApp.CanvasApp.Clear
+  fullName: BOOSEApp.CanvasApp.Clear()
+  nameWithType: CanvasApp.Clear()
+- uid: BOOSEApp.CanvasApp.Clear*
+  name: Clear
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Clear_
+  commentId: Overload:BOOSEApp.CanvasApp.Clear
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.Clear
+  nameWithType: CanvasApp.Clear
+- uid: BOOSEApp.CanvasApp.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_DrawTo_System_Int32_System_Int32_
+  commentId: M:BOOSEApp.CanvasApp.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: BOOSEApp.CanvasApp.DrawTo(int, int)
+  fullName.vb: BOOSEApp.CanvasApp.DrawTo(Integer, Integer)
+  nameWithType: CanvasApp.DrawTo(int, int)
+  nameWithType.vb: CanvasApp.DrawTo(Integer, Integer)
+- uid: BOOSEApp.CanvasApp.DrawTo*
+  name: DrawTo
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_DrawTo_
+  commentId: Overload:BOOSEApp.CanvasApp.DrawTo
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.DrawTo
+  nameWithType: CanvasApp.DrawTo
+- uid: BOOSEApp.CanvasApp.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_MoveTo_System_Int32_System_Int32_
+  commentId: M:BOOSEApp.CanvasApp.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: BOOSEApp.CanvasApp.MoveTo(int, int)
+  fullName.vb: BOOSEApp.CanvasApp.MoveTo(Integer, Integer)
+  nameWithType: CanvasApp.MoveTo(int, int)
+  nameWithType.vb: CanvasApp.MoveTo(Integer, Integer)
+- uid: BOOSEApp.CanvasApp.MoveTo*
+  name: MoveTo
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_MoveTo_
+  commentId: Overload:BOOSEApp.CanvasApp.MoveTo
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.MoveTo
+  nameWithType: CanvasApp.MoveTo
+- uid: BOOSEApp.CanvasApp.PenColour
+  name: PenColour
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_PenColour
+  commentId: P:BOOSEApp.CanvasApp.PenColour
+  fullName: BOOSEApp.CanvasApp.PenColour
+  nameWithType: CanvasApp.PenColour
+- uid: BOOSEApp.CanvasApp.PenColour*
+  name: PenColour
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_PenColour_
+  commentId: Overload:BOOSEApp.CanvasApp.PenColour
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.PenColour
+  nameWithType: CanvasApp.PenColour
+- uid: BOOSEApp.CanvasApp.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:BOOSEApp.CanvasApp.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: BOOSEApp.CanvasApp.Rect(int, int, bool)
+  fullName.vb: BOOSEApp.CanvasApp.Rect(Integer, Integer, Boolean)
+  nameWithType: CanvasApp.Rect(int, int, bool)
+  nameWithType.vb: CanvasApp.Rect(Integer, Integer, Boolean)
+- uid: BOOSEApp.CanvasApp.Rect*
+  name: Rect
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Rect_
+  commentId: Overload:BOOSEApp.CanvasApp.Rect
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.Rect
+  nameWithType: CanvasApp.Rect
+- uid: BOOSEApp.CanvasApp.Reset
+  name: Reset()
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Reset
+  commentId: M:BOOSEApp.CanvasApp.Reset
+  fullName: BOOSEApp.CanvasApp.Reset()
+  nameWithType: CanvasApp.Reset()
+- uid: BOOSEApp.CanvasApp.Reset*
+  name: Reset
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Reset_
+  commentId: Overload:BOOSEApp.CanvasApp.Reset
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.Reset
+  nameWithType: CanvasApp.Reset
+- uid: BOOSEApp.CanvasApp.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Set_System_Int32_System_Int32_
+  commentId: M:BOOSEApp.CanvasApp.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: BOOSEApp.CanvasApp.Set(int, int)
+  fullName.vb: BOOSEApp.CanvasApp.Set(Integer, Integer)
+  nameWithType: CanvasApp.Set(int, int)
+  nameWithType.vb: CanvasApp.Set(Integer, Integer)
+- uid: BOOSEApp.CanvasApp.Set*
+  name: Set
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Set_
+  commentId: Overload:BOOSEApp.CanvasApp.Set
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.Set
+  nameWithType: CanvasApp.Set
+- uid: BOOSEApp.CanvasApp.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:BOOSEApp.CanvasApp.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: BOOSEApp.CanvasApp.SetColour(int, int, int)
+  fullName.vb: BOOSEApp.CanvasApp.SetColour(Integer, Integer, Integer)
+  nameWithType: CanvasApp.SetColour(int, int, int)
+  nameWithType.vb: CanvasApp.SetColour(Integer, Integer, Integer)
+- uid: BOOSEApp.CanvasApp.SetColour*
+  name: SetColour
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_SetColour_
+  commentId: Overload:BOOSEApp.CanvasApp.SetColour
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.SetColour
+  nameWithType: CanvasApp.SetColour
+- uid: BOOSEApp.CanvasApp.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Tri_System_Int32_System_Int32_
+  commentId: M:BOOSEApp.CanvasApp.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: BOOSEApp.CanvasApp.Tri(int, int)
+  fullName.vb: BOOSEApp.CanvasApp.Tri(Integer, Integer)
+  nameWithType: CanvasApp.Tri(int, int)
+  nameWithType.vb: CanvasApp.Tri(Integer, Integer)
+- uid: BOOSEApp.CanvasApp.Tri*
+  name: Tri
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Tri_
+  commentId: Overload:BOOSEApp.CanvasApp.Tri
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.Tri
+  nameWithType: CanvasApp.Tri
+- uid: BOOSEApp.CanvasApp.WriteText(System.String)
+  name: WriteText(string)
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_WriteText_System_String_
+  commentId: M:BOOSEApp.CanvasApp.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: BOOSEApp.CanvasApp.WriteText(string)
+  fullName.vb: BOOSEApp.CanvasApp.WriteText(String)
+  nameWithType: CanvasApp.WriteText(string)
+  nameWithType.vb: CanvasApp.WriteText(String)
+- uid: BOOSEApp.CanvasApp.WriteText*
+  name: WriteText
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_WriteText_
+  commentId: Overload:BOOSEApp.CanvasApp.WriteText
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.WriteText
+  nameWithType: CanvasApp.WriteText
+- uid: BOOSEApp.CanvasApp.Xpos
+  name: Xpos
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Xpos
+  commentId: P:BOOSEApp.CanvasApp.Xpos
+  fullName: BOOSEApp.CanvasApp.Xpos
+  nameWithType: CanvasApp.Xpos
+- uid: BOOSEApp.CanvasApp.Xpos*
+  name: Xpos
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Xpos_
+  commentId: Overload:BOOSEApp.CanvasApp.Xpos
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.Xpos
+  nameWithType: CanvasApp.Xpos
+- uid: BOOSEApp.CanvasApp.Ypos
+  name: Ypos
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Ypos
+  commentId: P:BOOSEApp.CanvasApp.Ypos
+  fullName: BOOSEApp.CanvasApp.Ypos
+  nameWithType: CanvasApp.Ypos
+- uid: BOOSEApp.CanvasApp.Ypos*
+  name: Ypos
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_Ypos_
+  commentId: Overload:BOOSEApp.CanvasApp.Ypos
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.Ypos
+  nameWithType: CanvasApp.Ypos
+- uid: BOOSEApp.CanvasApp.getBitmap
+  name: getBitmap()
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_getBitmap
+  commentId: M:BOOSEApp.CanvasApp.getBitmap
+  fullName: BOOSEApp.CanvasApp.getBitmap()
+  nameWithType: CanvasApp.getBitmap()
+- uid: BOOSEApp.CanvasApp.getBitmap*
+  name: getBitmap
+  href: ASEBooseAppDocumentation/BOOSEApp.CanvasApp.html#BOOSEApp_CanvasApp_getBitmap_
+  commentId: Overload:BOOSEApp.CanvasApp.getBitmap
+  isSpec: "True"
+  fullName: BOOSEApp.CanvasApp.getBitmap
+  nameWithType: CanvasApp.getBitmap
+- uid: BOOSEApp.Form1
+  name: Form1
+  href: ASEBooseAppDocumentation/BOOSEApp.Form1.html
+  commentId: T:BOOSEApp.Form1
+  fullName: BOOSEApp.Form1
+  nameWithType: Form1
+- uid: BOOSEApp.Form1.#ctor
+  name: Form1()
+  href: ASEBooseAppDocumentation/BOOSEApp.Form1.html#BOOSEApp_Form1__ctor
+  commentId: M:BOOSEApp.Form1.#ctor
+  name.vb: New()
+  fullName: BOOSEApp.Form1.Form1()
+  fullName.vb: BOOSEApp.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: BOOSEApp.Form1.#ctor*
+  name: Form1
+  href: ASEBooseAppDocumentation/BOOSEApp.Form1.html#BOOSEApp_Form1__ctor_
+  commentId: Overload:BOOSEApp.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSEApp.Form1.Form1
+  fullName.vb: BOOSEApp.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: BOOSEApp.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: ASEBooseAppDocumentation/BOOSEApp.Form1.html#BOOSEApp_Form1_Dispose_System_Boolean_
+  commentId: M:BOOSEApp.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: BOOSEApp.Form1.Dispose(bool)
+  fullName.vb: BOOSEApp.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: BOOSEApp.Form1.Dispose*
+  name: Dispose
+  href: ASEBooseAppDocumentation/BOOSEApp.Form1.html#BOOSEApp_Form1_Dispose_
+  commentId: Overload:BOOSEApp.Form1.Dispose
+  isSpec: "True"
+  fullName: BOOSEApp.Form1.Dispose
+  nameWithType: Form1.Dispose
+- uid: BOOSEAppTests
+  name: BOOSEAppTests
+  href: ASEBooseAppDocumentation/BOOSEAppTests.html
+  commentId: N:BOOSEAppTests
+  fullName: BOOSEAppTests
+  nameWithType: BOOSEAppTests
+- uid: BOOSEAppTests.CanvasAppTests
+  name: CanvasAppTests
+  href: ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html
+  commentId: T:BOOSEAppTests.CanvasAppTests
+  fullName: BOOSEAppTests.CanvasAppTests
+  nameWithType: CanvasAppTests
+- uid: BOOSEAppTests.CanvasAppTests.DrawTo_UpdatesPositionCorrectly
+  name: DrawTo_UpdatesPositionCorrectly()
+  href: ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html#BOOSEAppTests_CanvasAppTests_DrawTo_UpdatesPositionCorrectly
+  commentId: M:BOOSEAppTests.CanvasAppTests.DrawTo_UpdatesPositionCorrectly
+  fullName: BOOSEAppTests.CanvasAppTests.DrawTo_UpdatesPositionCorrectly()
+  nameWithType: CanvasAppTests.DrawTo_UpdatesPositionCorrectly()
+- uid: BOOSEAppTests.CanvasAppTests.DrawTo_UpdatesPositionCorrectly*
+  name: DrawTo_UpdatesPositionCorrectly
+  href: ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html#BOOSEAppTests_CanvasAppTests_DrawTo_UpdatesPositionCorrectly_
+  commentId: Overload:BOOSEAppTests.CanvasAppTests.DrawTo_UpdatesPositionCorrectly
+  isSpec: "True"
+  fullName: BOOSEAppTests.CanvasAppTests.DrawTo_UpdatesPositionCorrectly
+  nameWithType: CanvasAppTests.DrawTo_UpdatesPositionCorrectly
+- uid: BOOSEAppTests.CanvasAppTests.MoveTo_UpdatesPositionCorrectly
+  name: MoveTo_UpdatesPositionCorrectly()
+  href: ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html#BOOSEAppTests_CanvasAppTests_MoveTo_UpdatesPositionCorrectly
+  commentId: M:BOOSEAppTests.CanvasAppTests.MoveTo_UpdatesPositionCorrectly
+  fullName: BOOSEAppTests.CanvasAppTests.MoveTo_UpdatesPositionCorrectly()
+  nameWithType: CanvasAppTests.MoveTo_UpdatesPositionCorrectly()
+- uid: BOOSEAppTests.CanvasAppTests.MoveTo_UpdatesPositionCorrectly*
+  name: MoveTo_UpdatesPositionCorrectly
+  href: ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html#BOOSEAppTests_CanvasAppTests_MoveTo_UpdatesPositionCorrectly_
+  commentId: Overload:BOOSEAppTests.CanvasAppTests.MoveTo_UpdatesPositionCorrectly
+  isSpec: "True"
+  fullName: BOOSEAppTests.CanvasAppTests.MoveTo_UpdatesPositionCorrectly
+  nameWithType: CanvasAppTests.MoveTo_UpdatesPositionCorrectly
+- uid: BOOSEAppTests.CanvasAppTests.MultilineProgram_TracksPositionThroughMultipleCommands
+  name: MultilineProgram_TracksPositionThroughMultipleCommands()
+  href: ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html#BOOSEAppTests_CanvasAppTests_MultilineProgram_TracksPositionThroughMultipleCommands
+  commentId: M:BOOSEAppTests.CanvasAppTests.MultilineProgram_TracksPositionThroughMultipleCommands
+  fullName: BOOSEAppTests.CanvasAppTests.MultilineProgram_TracksPositionThroughMultipleCommands()
+  nameWithType: CanvasAppTests.MultilineProgram_TracksPositionThroughMultipleCommands()
+- uid: BOOSEAppTests.CanvasAppTests.MultilineProgram_TracksPositionThroughMultipleCommands*
+  name: MultilineProgram_TracksPositionThroughMultipleCommands
+  href: ASEBooseAppDocumentation/BOOSEAppTests.CanvasAppTests.html#BOOSEAppTests_CanvasAppTests_MultilineProgram_TracksPositionThroughMultipleCommands_
+  commentId: Overload:BOOSEAppTests.CanvasAppTests.MultilineProgram_TracksPositionThroughMultipleCommands
+  isSpec: "True"
+  fullName: BOOSEAppTests.CanvasAppTests.MultilineProgram_TracksPositionThroughMultipleCommands
+  nameWithType: CanvasAppTests.MultilineProgram_TracksPositionThroughMultipleCommands
